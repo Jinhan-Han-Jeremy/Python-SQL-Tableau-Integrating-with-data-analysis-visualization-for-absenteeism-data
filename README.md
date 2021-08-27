@@ -8,3 +8,5 @@ The analyzed data inserted into MYSQL by python
 CSV file is exported from MYSQL work bench
 The csv file is visulized by tableau
 
+These codes also include sample codes to teach myself
+
