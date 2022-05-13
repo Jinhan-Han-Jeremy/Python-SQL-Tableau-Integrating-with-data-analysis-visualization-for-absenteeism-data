@@ -12,7 +12,7 @@ Process steps:
 *Created data table schema
 *Parsed data and inserted data into MYSQL data base by python 
 
-- Tableau -
+- Tableau - absenteeism1.twb (other files screenshots for the visualizations)
 *CSV file is exported from MYSQL work bench
 *The csv file is visulized by tableau
 
