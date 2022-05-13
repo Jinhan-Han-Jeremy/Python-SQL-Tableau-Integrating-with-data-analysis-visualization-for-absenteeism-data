@@ -12,10 +12,10 @@ Process steps:
 *Created data table schema<br />
 *Parsed data and inserted data into MYSQL data base by python <br /><br />
 
-- Tableau - absenteeism1.twb (other files screenshots for the visualizations)<br /><br />
+- Tableau - absenteeism1.twb (other files image screenshots for the visualizations)<br /><br />
 *CSV file is exported from MYSQL work bench <br />
 *The csv file is visulized by tableau<br />
 
 
-These codes also include extra codes to learn 
+This project also include extra sources to learn 
 
