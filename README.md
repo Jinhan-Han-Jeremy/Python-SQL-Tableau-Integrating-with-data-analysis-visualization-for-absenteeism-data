@@ -4,7 +4,9 @@ Used languages and platforms : python, MYSQL, csv files and tableau
 
 Process steps:
 
-*Python read csv files and analyzed data using regressions and standard deviation based on machine learning
+- data_sql_tableau.ipynb -
+*Preprocessed csv files and analyzed data using logisting regressions and standard_scaling based on machine learning
+
 
 *The analyzed data inserted into MYSQL by python 
 
