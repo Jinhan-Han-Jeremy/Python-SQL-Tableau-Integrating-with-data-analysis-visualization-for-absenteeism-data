@@ -17,5 +17,5 @@ Absenteeism Exercise - integration + absenteeism_model(absenteeism_module.py) + 
 *The csv file is visulized by tableau
 
 
-These codes also include sample codes to teach myself
+These codes also include extra codes to learn 
 
