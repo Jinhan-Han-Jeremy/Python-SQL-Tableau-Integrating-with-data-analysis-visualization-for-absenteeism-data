@@ -4,7 +4,7 @@ Used languages and platforms : python, MYSQL, csv files and tableau
 
 Process steps:
 
-- data_sql_tableau.ipynb -  Raw data : Absenteeism_data.csv, Absenteeism_new_data.csv
+- data_sql_tableau.ipynb -  Raw data : Absenteeism_data.csv, Absenteeism_new_data.csv \n
 *Preprocessed csv files and analyzed data using logisting regressions and custom standard_scaling functions
 *Evaluated accuracy and analyzed the model equation- Accuracy (77%)
 
