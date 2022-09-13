@@ -5,7 +5,7 @@ Used languages and platforms : python, MYSQL, csv files and tableau
 Process steps:
 
 ## - data_sql_tableau.ipynb -  Raw data : Absenteeism_data.csv, Absenteeism_new_data.csv <br /><br />
-### Used library
+### - Used library -
 ### from sklearn.base import BaseEstimator, TransformerMixin
 ### from sklearn.preprocessing import StandardScaler
 ### from sklearn.model_selection import train_test_split
