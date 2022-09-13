@@ -16,7 +16,7 @@ Process steps:
 *Converted df(Absenteeism_data.csv to Absenteeism_preprocessed.csv) after processed above the steps <br />
 *Add binary target data['Excessive Absenteeism'] <br />
 Set 1 if data['Absenteeism Time in Hours'] > 3 hours (average absenteeism time in hours), Set 0 if not <br />
-*Developed custom standard_scaling functions <br />
+*Developed custom standard_scaling functions - absenteeism_module.py -  <br />
 *Scaled all values in df <br />
 *Deployed train_test_split into targets(data['Excessive Absenteeism']) <br />
 *Trained and tested Logistic regression <br />
