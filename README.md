@@ -14,14 +14,17 @@ Process steps:
 *Classified 28 reasons in 4 reasons <br />
 *Changed date formats <br />
 *Converted df(Absenteeism_data.csv to Absenteeism_preprocessed.csv) after processed above the steps <br />
-*Add binary target data['Excessive Absenteeism'] <br />
+*Add binary targets data (data['Excessive Absenteeism']) <br />
 Set 1 if data['Absenteeism Time in Hours'] > 3 hours (average absenteeism time in hours), Set 0 if not <br />
 *Developed custom standard_scaling functions - absenteeism_module.py -  <br />
 *Scaled all values in df <br />
 *Deployed train_test_split into targets(data['Excessive Absenteeism']) <br />
-*Trained and tested Logistic regression <br />
+*Trained and tested Logistic regression with targets <br />
 *Analyzed data using logisting regressions and custom standard_scaling functions <br />
 *Evaluated accuracy and analyzed the model equation- Accuracy (77%) <br /><br />
+
+*Add coefficients and odds ratio for each columns
+*predicted probabilities
 
 - absenteeism_module.py - 
 *absenteeism_data_model
