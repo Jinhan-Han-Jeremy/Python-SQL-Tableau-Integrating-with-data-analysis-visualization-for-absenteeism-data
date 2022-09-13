@@ -16,10 +16,10 @@ Process steps:
 *Converted df(Absenteeism_data.csv to Absenteeism_preprocessed.csv) after processed above the steps <br />
 *Add binary target data['Excessive Absenteeism'] <br />
 Set 1 if data['Absenteeism Time in Hours'] > 3 hours (average absenteeism time in hours), Set 0 if not <br />
-*Developed custom standard_scaling functions 
-*Scaled all values in df
-*Deployed train_test_split into targets(data['Excessive Absenteeism'])
-*Trained and tested Logistic regression
+*Developed custom standard_scaling functions <br />
+*Scaled all values in df <br />
+*Deployed train_test_split into targets(data['Excessive Absenteeism']) <br />
+*Trained and tested Logistic regression <br />
 *Analyzed data using logisting regressions and custom standard_scaling functions <br />
 *Evaluated accuracy and analyzed the model equation- Accuracy (77%) <br /><br />
 
