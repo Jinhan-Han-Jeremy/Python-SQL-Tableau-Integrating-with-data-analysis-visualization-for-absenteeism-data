@@ -38,7 +38,7 @@ Set 1 if data['Absenteeism Time in Hours'] > 3 hours (average absenteeism time i
 ### import pymysql
 
 *Predicted and scaled data using absenteeism data model <br />
-*Created data table schema in MYSQL server<br />
+*Created data tables in MYSQL server<br />
 *Parsed data and inserted predicted data into MYSQL data base by python <br /><br />
 
 
