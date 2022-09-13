@@ -44,7 +44,7 @@ Set 1 if data['Absenteeism Time in Hours'] > 3 hours (average absenteeism time i
 
 
 ## - Tableau - absenteeism1.twb (other files image screenshots for the visualizations)<br /><br />
-*CSV file is exported from MYSQL work bench <br />
+*Absenteeism_predictions.csv file is exported from MYSQL work bench <br />
 *The csv file is visulized by tableau<br />
 
 
