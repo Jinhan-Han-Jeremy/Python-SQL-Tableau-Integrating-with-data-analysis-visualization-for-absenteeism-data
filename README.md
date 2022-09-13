@@ -26,10 +26,17 @@ Set 1 if data['Absenteeism Time in Hours'] > 3 hours (average absenteeism time i
 *Add coefficients and odds ratio for each columns
 *predicted probabilities
 
+
 - absenteeism_module.py - 
 *absenteeism_data_model
 
 ## - Absenteeism Exercise - Integration.ipynb - integration + absenteeism_model(absenteeism_module.py) + last_mysql.sql(Create data table), Raw data : Absenteeism_new_data.csv <br /><br />
+## pip uninstall scikit-learn 
+## pip install scikit-learn==0.22
+## from absenteeism_module import *  -absenteeism_module.py- Fuctions 'model' and 'scaler'are used  
+## conda install -c anaconda mysql-connector-python
+## import pymysql
+
 *Created data table schema<br />
 *Parsed data and inserted data into MYSQL data base by python <br /><br />
 
