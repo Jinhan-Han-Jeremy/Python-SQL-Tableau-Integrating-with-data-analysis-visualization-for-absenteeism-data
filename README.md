@@ -8,9 +8,14 @@ Process steps:
 *Preprocessed csv files and analyzed data using logisting regressions and custom standard_scaling functions <br />
 *Evaluated accuracy and analyzed the model equation- Accuracy (77%) <br /><br />
 
+- absenteeism_module.py - 
+*absenteeism_data_model
+
 - Absenteeism Exercise - integration + absenteeism_model(absenteeism_module.py) + last_mysql.sql(Create data table), Raw data : Absenteeism_new_data.csv <br /><br />
 *Created data table schema<br />
 *Parsed data and inserted data into MYSQL data base by python <br /><br />
+
+
 
 - Tableau - absenteeism1.twb (other files image screenshots for the visualizations)<br /><br />
 *CSV file is exported from MYSQL work bench <br />
